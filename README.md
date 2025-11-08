@@ -24,26 +24,6 @@ This repository is created to help QA engineers and beginners learn how to:
 | GitHub Actions | Continuous Integration / CI (Future Scope). |
 | Jenkins Pipeline | Continuous Integration / CI (Future Scope). |
 
-## 🧩 Project Structure
-demoqa-automation-25/
-┣ extent-reports/                      ### Generated test reports (ExtentReports) showing test results
-┣ logs/                                ### Log output files (e.g., execution logs, error logs)
-┣ src/  
-┃ ┣ main/  
-┃ ┃ ┗ java/com.demoqa/pages/           ### Page Object Model (POM) classes representing UI pages
-┃ ┃ ┗ resources/                       ### Log4j2 configuration file (log4j2.xml) for logging setup
-┃ ┗ test/  
-┃ ┃ ┗ java/com.demoqa/tests/           ### Test scripts with @Test annotations  
-┃ ┃ ┗ resources/                       ### Test resources (config files, screenshots, test data)
-┃ testRunner/
-┃ ┣ batchFile/                         ### Batch files (.bat) for executing tests via Jenkins
-┃ ┣ suiteFiles/                        ### TestNG suite XML files (e.g., regression.xml, sanity.xml)
-┣ pom.xml                              ### Maven project configuration file
-┣ Jenkinsfile                          ### Jenkins Pipeline workflow for Selenium tests
-┣ README.md                            ### Project documentation and instructions (GitHub)
-┗ .github/workflows/selenium.yml       ### GitHub Actions CI/CD workflow for Selenium tests
-
-
 ---
 
 ## 🧠 Learning Goals
