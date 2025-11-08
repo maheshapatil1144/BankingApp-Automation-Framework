@@ -1,8 +1,6 @@
 # 🧪Selenium WebDriver Automation (DemoBank)👨‍🎓
 ---
 
-# 🏦 End-to-End Banking Domain Automation Project
-
 [![Selenium Tests](https://img.shields.io/badge/Selenium%20Tests-passing-brightgreen)](https://github.com/your-username/repo-name/actions)
 
 ## 📘 Overview
@@ -60,8 +58,9 @@ By working on this project, you'll gain hands-on experience in:
 ## 🧑‍💻 Author
 
 **Mahesh Patil**  
-🎯 QA Automation Engineer | Passionate about CI/CD | Selenium + TestNG + Maven  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahesh-patil-907301211/)
+🎯QA Engineer | ISTQB Certified | Passionate about Automation & Agile  
+🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahesh-patil-907301211/)
+
 ---
 
 ## 🌟 Support
